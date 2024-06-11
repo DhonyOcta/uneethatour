@@ -127,12 +127,12 @@ body {
 
 .hero .content p {
   font-size: 1.5rem;
-  color: #e0dada;
+  color: #ffffff;
   margin-top: 0rem;
   line-height: 1.4;
   font-weight: 100;
   text-shadow: 1px 1px 3px rgba(5, 4, 4, 0.556);
-  mix-blend-mode: difference;
+  /* mix-blend-mode: difference; */
 }
 
 .hero .content .cta {
